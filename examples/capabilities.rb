@@ -1,4 +1,4 @@
-$: << "../lib"
+#$: << "../lib"
 require 'ffi-opencl'
 
 def show(size, obj, *keys)
